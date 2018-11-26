@@ -1,4 +1,4 @@
-## Develop branch
+## Tickeck branch
 
 [![CircleCI](https://circleci.com/gh/trailheadapps/northern-trail-outfitters.svg?style=svg)](https://circleci.com/gh/trailheadapps/northern-trail-outfitters)
 
