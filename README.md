@@ -1,4 +1,4 @@
-## Tickeck branch
+## Tickeck2 branch
 
 [![CircleCI](https://circleci.com/gh/trailheadapps/northern-trail-outfitters.svg?style=svg)](https://circleci.com/gh/trailheadapps/northern-trail-outfitters)
 
